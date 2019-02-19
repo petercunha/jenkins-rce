@@ -6,9 +6,9 @@ Exploit compiled by Peter Cunha, but full credits for exploit discovery and expl
 Read his blog articles on this exploit here -
 Part 1: https://blog.orange.tw/2019/01/hacking-jenkins-part-1-play-with-dynamic-routing.html
 Part 2: http://blog.orange.tw/2019/02/abusing-meta-programming-for-unauthenticated-rce.html
+His github: https://github.com/orangetw
 
 Orange is a hacking genius, and you should read his blog: https://blog.orange.tw
-Orange's github: https://github.com/orangetw
 
 
 INSTRUCTIONS:
