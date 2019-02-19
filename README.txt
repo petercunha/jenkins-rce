@@ -1,9 +1,9 @@
 JENKINS UNAUTHENTICATED REMOTE CODE EXECUTION
 ---------------------------------------------
 
-Exploit compiled by Peter Cunha, but full credits for exploit discovery and exploit chaining go to Orange Tsai (orange.tw).
+Exploit compiled by Peter Cunha, full credits for exploit discovery and exploit chaining go to Orange Tsai (orange.tw).
 
-Read his blog articles on this exploit here -
+Read his write-ups on this exploit here -
 Part 1: https://blog.orange.tw/2019/01/hacking-jenkins-part-1-play-with-dynamic-routing.html
 Part 2: http://blog.orange.tw/2019/02/abusing-meta-programming-for-unauthenticated-rce.html
 His github: https://github.com/orangetw
