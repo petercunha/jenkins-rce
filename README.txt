@@ -8,7 +8,7 @@ Part 1: https://blog.orange.tw/2019/01/hacking-jenkins-part-1-play-with-dynamic-
 Part 2: http://blog.orange.tw/2019/02/abusing-meta-programming-for-unauthenticated-rce.html
 His github: https://github.com/orangetw
 
-Orange is a hacking genius, and you should read his blog: https://blog.orange.tw
+Orange is a hacking genius, you should read his blog: https://blog.orange.tw
 
 
 INSTRUCTIONS:
