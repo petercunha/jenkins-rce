@@ -3,6 +3,8 @@ JENKINS UNAUTHENTICATED REMOTE CODE EXECUTION
 
 Exploit compiled by me, but full credits for exploit discovery and exploit chaining go to Orange Tsai (orange.tw).
 
+It chains CVE-2018-1000861, CVE-2019-1003005 and CVE-2019-1003029 to a more reliable and elegant pre-auth remote code execution!
+
 Read his write-ups on this exploit here -
 Part 1: https://blog.orange.tw/2019/01/hacking-jenkins-part-1-play-with-dynamic-routing.html
 Part 2: http://blog.orange.tw/2019/02/abusing-meta-programming-for-unauthenticated-rce.html
